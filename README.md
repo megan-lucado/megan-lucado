@@ -29,4 +29,5 @@
 </details>
 
 ### 📫 How to reach me:
-[<img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/megan-lucado/) &nbsp; <a href="mailto:meganchavis1995@gmail.com"> <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+[<img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/megan-lucado/) &nbsp; [<img align="left" alt="Discord" width="47px" style="padding-right:10px;" src="./images/discord.png"/>](https://discord.com/users/megan_lucado/) &nbsp; <a href="mailto:meganchavis1995@gmail.com"> <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+
