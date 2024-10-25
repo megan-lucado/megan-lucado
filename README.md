@@ -1,4 +1,4 @@
-# 🌹 Megan Lucado
+<img src=./images/welcome.gif alt="Welcome Gif" width="1000" height="300">
 
 **`Data Scientist 🚀📈🔍`**
 - 🧠 Passionate about machine learning, AI, and data science
